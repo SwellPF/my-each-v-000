@@ -1,5 +1,5 @@
 require 'pry'
-def my_each(array) {puts} 
+def my_each(array) {|item| puts} 
   # code here
   i = 0
   while i < array.size do 
