@@ -1,4 +1,3 @@
-require 'pry'
 def my_each(array) {puts array[item]} 
   # code here
   i = 0
